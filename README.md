@@ -34,14 +34,14 @@ Use Thai Analyzer for Thai.<br/>
 <br/>
 ----------------------------------------------------------
 3. SearchFiles.java<br/>
-
-Line: 231-232
-//String filename= path.substring(path.lastIndexOf("/")+1,path.length()); // for Linux
-String filename= path.substring(path.lastIndexOf("\\")+1,path.length()); // for Windows
-
-Line:348-349
-//String filename= sourcefilepath.substring(sourcefilepath.lastIndexOf("/")+1,sourcefilepath.length()); // for Linux
-String filename= sourcefilepath.substring(sourcefilepath.lastIndexOf("\\")+1,sourcefilepath.length()); // for windows
+<br/>
+Line: 231-232<br/>
+//String filename= path.substring(path.lastIndexOf("/")+1,path.length()); // for Linux<br/>
+String filename= path.substring(path.lastIndexOf("\\")+1,path.length()); // for Windows<br/>
+<br/>
+Line:348-349<br/>
+//String filename= sourcefilepath.substring(sourcefilepath.lastIndexOf("/")+1,sourcefilepath.length()); // for Linux<br/>
+String filename= sourcefilepath.substring(sourcefilepath.lastIndexOf("\\")+1,sourcefilepath.length()); // for windows<br/>
 
 
 Line:354-355
