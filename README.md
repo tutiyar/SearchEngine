@@ -11,7 +11,7 @@ License: Free for All used. (Apache License 2.0)<br/>
 It is MAVEN project.<br/>
 It is easy for use, to deploy and config.<br/> 
 <br/>
---------------------------------------------------------
+--------------------------------------------------------<br/>
 Programming Reference:<br/>
 <br/>
 1 Config.properties<br/>
@@ -23,7 +23,7 @@ sample for Linux:<br/>
 index.path=/home/tutiya/test/lucene/index<br/>
 document.path=/home/tutiya/test/lucene/docs<br/><br/>
 
-----------------------------------------------------------
+----------------------------------------------------------<br/>
 2. Indexfiles.java<br/>
 Line: 124-125<br/>
 //Analyzer analyzer = new StandardAnalyzer();<br/>
@@ -32,7 +32,7 @@ Analyzer analyzer = new ThaiAnalyzer();<br/>
 Use Standard Analyzer for  English.<br/>
 Use Thai Analyzer for Thai.<br/>
 <br/>
-----------------------------------------------------------
+----------------------------------------------------------<br/>
 3. SearchFiles.java<br/>
 <br/>
 Line: 231-232<br/>
