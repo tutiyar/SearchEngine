@@ -42,11 +42,10 @@ String filename= path.substring(path.lastIndexOf("\\")+1,path.length()); // for 
 Line:348-349<br/>
 //String filename= sourcefilepath.substring(sourcefilepath.lastIndexOf("/")+1,sourcefilepath.length()); // for Linux<br/>
 String filename= sourcefilepath.substring(sourcefilepath.lastIndexOf("\\")+1,sourcefilepath.length()); // for windows<br/>
-
-
-Line:354-355
-//String destfilepath = request.getRealPath("/download")+"/"+filename; //for Linux
-String destfilepath = request.getRealPath("/download")+"\\"+filename; // for Windows
+<br/>
+Line:354-355 <br/>
+//String destfilepath = request.getRealPath("/download")+"/"+filename; //for Linux<br/>
+String destfilepath = request.getRealPath("/download")+"\\"+filename; // for Window
 
 
 
