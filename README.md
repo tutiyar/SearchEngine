@@ -20,7 +20,7 @@ index.path=D:/test/lucene/index<br/>
 document.path=D:/test/lucene/docs<br/>
 <br/>
 sample for Linux:<br/>
-index.path=/home/tutiya/test/lucene/index<br/><br/>
+index.path=/home/tutiya/test/lucene/index<br/>
 document.path=/home/tutiya/test/lucene/docs<br/><br/>
 
 ----------------------------------------------------------
