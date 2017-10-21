@@ -5,8 +5,8 @@ After user input keyword for Search,  the result will show line match for all oc
 And user can download files from links.
 
 This program was written by mr. Tutiya Rayanak. 
-License: Free for All used. (Apache License 2.0)  
 Contact Email: tutiya.rayanak@gmail.com
+License: Free for All used. (Apache License 2.0)  
 
 It is MAVEN project.
 It is easy for use, to deploy and config. 
